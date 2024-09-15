@@ -180,7 +180,7 @@ By completing this project, you should have a clearer understanding of JavaScrip
 
 💾 **Not something to copy and paste** 💾
 
-**Note.** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-4-the-box-model/tree/solution) (link not shown).
+**Note.** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-scope/tree/solution) (link not shown).
 
 ---
 
