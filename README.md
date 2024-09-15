@@ -8,7 +8,8 @@ In this assignment, you will explore how JavaScript handles variable scopes, spe
 ## Expected Project Structure 🏗️
 
 ```plaintext
-- index.js
+js-scope-examples/
+└── index.js
 ```
 
 ## Instructions ✅
